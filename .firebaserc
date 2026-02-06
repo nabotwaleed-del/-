@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 
 {
   "projects": {
     "default": "arz-flow-financial-engine"
   }
 }
+=======
+{
+  "projects": {
+    "default": "hamada-final"
+  }
+}
+>>>>>>> 6b20122 (Setup GitHub Actions for Firebase Hosting)
